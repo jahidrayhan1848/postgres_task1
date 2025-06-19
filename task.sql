@@ -60,7 +60,7 @@ INSERT INTO employees (employee_name, department_name, salary, hire_date) VALUES
     ('Ava Wilson', 'Quality Assurance', 69000.25, '2021-11-15'),
     ('Matthew Brown', 'HR', 63000.00, '2022-01-20'),
     ('Emily Garcia', 'Marketing', 76000.50, '2021-06-15'),
-    ('Christopher Allen', 'Finance', 86000.75, '2020-12-05'),
+    ('Christopher Allenn', 'Finance', 86000.75, '2020-12-05'),
     ('Madison Hall', 'IT', 93000.25, '2019-09-25'),
     ('Andrew Cook', 'Sales', 68000.50, '2020-04-18'),
     ('Abigail Torres', 'Engineering', 73000.00, '2021-10-20'),
